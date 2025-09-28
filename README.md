@@ -54,6 +54,11 @@ Sprint 1 : MVP fonctionnel (chatbot basique, logs, dashboard KPI).
 Intégrer les autres tech (React frontend, MySQL BDD, Rasa/BERT pour IA).
 Daily meetings et retrospectives Scrum.
 
+Sprint 1 Progress :
+
+"Logs anonymisés fonctionnels (ex. [ANONYMIZED])."
+"Sécurisation des inputs testée (prévention injections et authentification fonctionnelles)."
+
 Le projet est sur la bonne voie pour un MVP en fin de semaine ! Si tu as des questions, contacte-moi.
 Installation et Lancement
 
